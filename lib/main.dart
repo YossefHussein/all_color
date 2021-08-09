@@ -5,7 +5,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  
+
   @override
   /// build is it working the hot reloade
   Widget build(BuildContext context) {
@@ -28,8 +28,8 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
+/// end of fun
 
-// end of fun
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: title,
