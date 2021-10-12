@@ -7,7 +7,6 @@ void main() {
 class MyApp extends StatelessWidget {
 
   @override
-  /// build is it working the hot reloade
   Widget build(BuildContext context) {
     final title = 'hex color';
   /// that is function for create all component on the screen
