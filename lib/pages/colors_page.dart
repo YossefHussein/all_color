@@ -24,6 +24,7 @@ class _ColorsPageState extends State<ColorsPage> {
       ),
     );
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
