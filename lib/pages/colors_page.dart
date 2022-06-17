@@ -45,6 +45,7 @@ class _ColorsPageState extends State<ColorsPage> {
           ),
         ],
       ),
+
       body: Padding(
         padding: const EdgeInsets.all(kPadding / 2),
         child: SafeArea(
